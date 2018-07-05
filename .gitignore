@@ -1,0 +1,3 @@
+src/test.o
+src/Mnist/index/index/*
+src/Mnist/index/data/*
